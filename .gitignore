@@ -5,4 +5,11 @@ data/*
 !data/*.dvc
 !data/.gitignore
 
-__pycache__
+# Python cache
+__pycache__/
+*.pyc
+
+# Python cache
+__pycache__/
+*.pyc
+
