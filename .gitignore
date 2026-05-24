@@ -1,4 +1,8 @@
 .venv
 
-data/
-*.csv
+
+data/*
+!data/*.dvc
+!data/.gitignore
+
+__pycache__
