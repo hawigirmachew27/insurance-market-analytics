@@ -5,4 +5,4 @@ stages:
     - data/insurance_data.txt
     - src/clean_data.py
     outs:
-    - data/clean-data.csv
+    - data/insurance_data_cleaned.csv
